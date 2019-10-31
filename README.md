@@ -1,9 +1,9 @@
 # Reconhecimento-facial
 Utilização do tracking.js para reconhecimento facial e reconhecimento de emoção.
-#Requisitos
+# Requisitos
 -Node.js
 -tracking.js
-#Instalação
+# Instalação
 -git clone https://github.com/Icarobernard/Reconhecimento-facial.git
 -cd reconhecimento-facial-master
 -npm install http-server
